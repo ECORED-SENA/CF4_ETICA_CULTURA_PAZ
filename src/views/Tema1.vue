@@ -220,7 +220,7 @@
         figure
           img(src="@/assets/curso/tema1/img22.png", alt="", style="width: 450px").m-auto
       .col-lg-8(data-aos="fade-left")
-        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul2")
           .row(titulo="Negociación y pacto político de paz Gobierno-M19 - Parte I")
             .col-12
               p El proceso de negociación entre el gobierno de ese momento a cargo del presidente Virgilio Barco y el M-19 se dio en el curso de 1989 hasta los primeros meses de 1990. El Movimiento 19 de Abril, mejor conocido por su acrónimo M-19, fue una organización guerrillera surgida a raíz de las irregularidades en las elecciones presidenciales del 19 de abril de 1970 y que derivaron de un fraude electoral orquestado por el gobierno y los partidos tradicionales (liberales y conservadores). El movimiento participó en el conflicto armado desde enero de 1974 hasta su desmovilización en marzo de 1990. La negociación fue pensada como pacto político, ya que se pretendió que fuera firmado por los distintos partidos políticos.
@@ -239,7 +239,7 @@
               p.mb-0 En materia de Derechos Humanos y Derecho Internacional Humanitario se entregaron en el acuerdo recomendaciones; se acordó el desarrollo de planes regionales en áreas de influencia del EPL con el objeto de beneficiar a las comunidades y fomentar su desarrollo socio-económico, sobre lo cual se promovieron presupuestos y proyectos a través de la Red de Solidaridad Social. (Programa para la Reinserción, 1995 citado en Villarraga, A. 2015).
     .row.align-items-center.mb-4
       .col-lg-8(data-aos="fade-left")
-        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul2")
           .row(titulo="Negociación y Acuerdo de Paz Gobierno - PRT - Parte I")
             .col-12
               p El Partido Revolucionario de los Trabajadores de Colombia (PRT) fue un partido político, fundado en 1982, surgió de la facción marxista-leninista-maoísta, un grupo que se había separado del Partido Comunista de Colombia (marxista-leninista) a mediados de la década de 1975, hizo presencia en la Costa Atlántica, Nariño, Valle del Cauca, Cauca y Antioquia.
@@ -259,6 +259,35 @@
       .col-lg-4(data-aos="fade-right").d-none.d-lg-block
         figure
           img(src="@/assets/curso/tema1/img23.png", alt="", style="width: 450px").m-auto
+    p.mb-4 Y finalicemos con la Negociación y Acuerdo de Paz Gobierno-CRS hasta la agenda y mesa de conversaciones con el ELN:
+    .row.align-items-center
+      .col-lg-4.mb-4.mb-lg-0.d-none.d-lg-block(data-aos="fade-right")
+        figure
+          img(src="@/assets/curso/tema1/img24.png", alt="", style="width: 450px").m-auto
+      .col-lg-8(data-aos="fade-left")
+        LineaTiempoD.color-primario
+          .row(numero="1" titulo="Negociación y Acuerdo de Paz Gobierno-CRS - Parte I")
+            .col-12
+              p.mb-0 La Corriente de Renovación Socialista (CRS) fue un movimiento político que surgió a través de una ruptura dentro del ELN, planteando un debate interno a favor de una rectificación en la lucha armada que abriera las puertas a una negociación política. De esta facción consideraron que la estrategia para el cambio en las políticas de Estado a través de las armas ya no era viable y que había llegado el momento de la lucha por la vía de la democracia y que por tanto era necesario, mediante la negociación, hacer una transición de la lucha armada a la lucha política.
+          .row(numero="2" titulo="Negociación y Acuerdo de Paz Gobierno-CRS - Parte II")
+            .col-12
+              p.mb-0 En 1994 se concertó el acuerdo final de paz del gobierno de la época a cargo del presidente César Gaviria CRS, de forma que se desmovilizaron 433 integrantes de sus estructuras políticas y militares el 9 de abril de este año. Hubo presencia de la comunidad internacional, específicamente de la Embajada de Holanda. Dentro de los compromisos pactados la CRS consiguió la participación en el Congreso de la República con dos parlamentarios, el otorgamiento de indultos, la vinculación a programas de reinserción y la conformación en 1994 de la Comisión Nacional de Derechos Humanos, que fue una experiencia importante en la concertación de políticas e iniciativa en Derechos Humanos y Derecho Internacional Humanitario. También pactó presupuestos oficiales para la inversión social en obras de beneficio a las comunidades de la región donde tenía especial presencia y actuación (Programa para la Reinserción, 1995, citado en Villarraga, A. 2015).
+          .row(numero="3" titulo="Negociación y pactos de paz y convivencia con las MP y el MIR COAR")
+            .col-12
+              p El 26 de mayo de 1994 se suscribió el Acuerdo para la Convivencia Ciudadana entre el gobierno de Ernesto Samper Pizano y los grupos milicianos de Medellín y el Valle de Aburrá, denominados Milicias Populares del Pueblo y para el Pueblo (MPPP), Milicias Independientes del Valle de Aburrá (MIVA) y Milicias Metropolitanas de Medellín (MMM). El acto de desmovilización y desarme fue simultáneo en una zona de las comunas de Medellín y se trató de una experiencia de reinserción urbana (Programa para la Reinserción, citado en Villarraga, A. 2015).
+              p.mb-0 Experiencia un tanto diferente representó en 1998 el Movimiento Independiente Revolucionario-Comandos Armados (MIR COAR) al suscribir un Acuerdo de Paz y Convivencia con el Gobierno Nacional y los gobiernos de Antioquia y Medellín; con apoyo de la Corporación Corpades consiguieron un positivo proceso de reintegración a la vida civil, con reconocida y constructiva proyección política y social que trasciende hasta la actualidad.
+          .row(numero="4" titulo="Negociación y Acuerdo de Paz Gobierno-FARC EP - Parte I")
+            .col-12
+              p Los entendimientos entre los grupos guerrilleros y el gobierno de César Gaviria en 1992, las FARC y el ELN prolongaron el levantamiento en armas con dinámica ofensiva y actividad en todo el territorio. El gobierno siguiente a cargo del presidente Ernesto Samper Pizano no logró conseguir conversaciones de paz con estas guerrillas, aunque mantuvo contactos y promovió un acuerdo inicial con el ELN, suscrito a través del Consejo Nacional de Paz en 1998.
+              p.mb-0 Posteriormente, el gobierno del presidente Andrés Pastrana ante la presión de un amplio movimiento ciudadano y social en demanda de la paz adoptó conversaciones con las FARC EP y en menor medida con el ELN entre 1999 e inicios del 2002. En ambos casos se lograron acuerdos parciales y un importante respaldo ciudadano y de la comunidad internacional, pero finalmente este proceso de paz fracasó; en medio de todo el contexto se incrementó el avance de las AUC a poblaciones que anteriormente eran de las FARC-EP, lo que generó una crisis humanitaria y desplazamientos masivos en todo el territorio nacional.
+          .row(numero="5" titulo="Negociación y Acuerdo de Paz Gobierno-FARC EP - Parte II")
+            .col-12
+              p En las dos administraciones siguientes, el presidente Álvaro Uribe Vélez con apoyo económico y asesoría militar directa de EE. UU. intentó durante una década, de 2002 a 2012, destruir militarmente a este grupo insurgente. No obstante, desde 2007 recuperaron iniciativa militar, aunque en condiciones estratégicas desfavorables.
+              p.mb-0 En tales circunstancias, el presidente Juan Manuel Santos al asumir su primer mandato en 2010 retomó la posibilidad de la solución política. Así, luego de un año de conversaciones, este gobierno suscribió en 2012 con esta guerrilla el “Acuerdo para finalizar el conflicto y construir una paz estable y duradera” que definió la agenda temática, reglas de juego y acompañamiento internacional. Instalada la mesa de negociación en Oslo, Noruega, se trasladó a La Habana, Cuba, en donde funcionó hasta conseguir resultados finales. Los cuatro años siguientes se realizaron intensas conversaciones con el apoyo de foros e invitaciones a la mesa de diálogo de diversos sectores y a expertos, hasta conseguir en 2016 el conjunto de los acuerdos en materia agraria, participación política y social, superación de economías ilegales, derechos de las víctimas, marco jurídico del proceso de paz y compromisos para finalizar las hostilidades e implementar mecanismos de verificación.
+          .row(numero="6" titulo="Agenda y mesa de conversaciones con el ELN, el cierre de la guerra")
+            .col-12
+              p Cerrar definitivamente estas décadas de guerra requiere un acuerdo de paz en términos similares también con el ELN y desmantelar los grupos rezagados del paramilitarismo. El gobierno de Juan Manuel Santos pactó con el ELN un acuerdo inicial que definió una agenda, el acompañamiento internacional y una metodología que compromete activamente la participación de la sociedad; esta se propuso ser realizada en 2017; sin embargo, fue pospuesta ante la retención de algunos civiles por parte de esta guerrilla.
+              p.mb-0 De tener éxito el desarrollo de la agenda Gobierno-ELN que considera la metodología de participación de la sociedad, iniciativas de medidas y cambios para construir la paz, medidas a favor de las víctimas, el paso de esta insurgencia de las armas a la política y formas propias de veeduría y monitoreo de lo pactado con el concurso de la comunidad internacional, se cerraría el ciclo final de los procesos de paz entre el Estado y todos los grupos insurgentes que han estado presente durante varias décadas.
  
 </template>
 
