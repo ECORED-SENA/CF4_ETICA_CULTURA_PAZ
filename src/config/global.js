@@ -1,17 +1,22 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name: 'Ser agente de cambio',
+    Description:
+      'La cultura de la paz consiste en una serie de valores, actitudes y comportamientos que rechazan la violencia y previenen los conflictos, teniendo en cuenta los Derechos Humanos. Este proceso es lento ya que significa un cambio de mentalidad individual y colectiva. Dos aspectos claves en el fortalecimiento de una cultura de paz son, por un lado, asumir el conflicto como parte de las dinámicas de las relaciones personales y por otra, el aprendizaje y aplicación de estrategias de transformación de los conflictos.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.png'),
       },
     ],
   },
@@ -31,28 +36,44 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Historia de Colombia en los últimos 50 años de violencia',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Contexto social y político',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Acuerdos que se han llevado a cabo en Colombia',
+            hash: 't_1_2',
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Fundamentación de los acuerdos de paz',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'La importancia de la cultura de paz',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Resolución de conflictos y negociación',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Cultura de paz: concepto ',
+            hash: 't_3_2',
+          },
+        ],
       },
     ],
     subMenu: [
