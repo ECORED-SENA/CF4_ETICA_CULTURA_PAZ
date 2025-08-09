@@ -123,21 +123,124 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: 'Sitio web',
-      link: '',
+      tema: 'Fundamentación de los acuerdos de paz',
+      referencia:
+        'Fundación ideas para la paz. (2016). Explicación de los acuerdos de paz con las FARC [video] YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=YKmVbr3fRg0',
+    },
+    {
+      tema: 'Fundamentación de los acuerdos de paz',
+      referencia:
+        'Seidman, J. (2013). Lecciones del proceso de paz Sudafricano. Revista de información y de debate Pueblos.',
+      tipo: 'Artículo',
+      link: 'https://rebelion.org/lecciones-del-proceso-de-paz-sudafricano/',
+    },
+    {
+      tema: 'Fundamentación de los acuerdos de paz',
+      referencia:
+        'Presidencia de la República - Colombia. (2017). ¿Qué es el #AcuerdoDePaz? (video). YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=IlrzkNKf7cU',
+    },
+    {
+      tema: 'Fundamentación de los acuerdos de paz',
+      referencia:
+        'VICE News. (2020). Las fallas en la implementación del acuerdo de paz en Colombia (video). YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=FNGFbFAowOQ',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Conflicto armado',
+      significado:
+        'el concepto de conflicto armado es muy complejo, ya que hace referencia a todos aquellos enfrentamientos en los que están involucradas las armas y su uso. Los conflictos armados son un fenómeno histórico que existe desde el comienzo de la historia y pueden darse entre distintos pueblos así como también entre el mismo pueblo, es decir, a nivel interno. De cualquier manera, el conflicto armado es muy doloroso ya que produce muertes y mutilaciones de todo tipo, abusos, asesinatos y violencia sin fin que muchas es difícil de controlar, revertir o superar.',
+    },
+    {
+      termino: 'Cultura de Paz',
+      significado:
+        'según la definición de las Naciones Unidas (1998, Resolución A/52/13), la cultura de paz consiste en una serie de valores, actitudes y comportamientos que rechazan la violencia y previenen los conflictos tratando de atacar sus causas para solucionar los problemas mediante el diálogo y la negociación entre las personas, los grupos y las naciones.',
+    },
+    {
+      termino: 'Guerrilla',
+      significado:
+        'el concepto está asociado a la partida del grupo de personas que, sin dependencia del Ejército y bajo el mando de un jefe particular, acosa y enfrenta a un enemigo (que, muchas veces, puede ser el propio Ejército de un país).',
+    },
+    {
+      termino: 'Reconciliación',
+      significado:
+        'la reconciliación es la acción y la consecuencia de reconciliar. Este verbo hace mención a dejar atrás una pelea o un enfrentamiento, retomando una amistad u otro vínculo que se encontraba interrumpido por una desavenencia.',
+    },
+    {
+      termino: 'Resolución de conflictos',
+      significado:
+        'proceso por el cual un conflicto de carácter interpersonal, intergrupal, interorganizacional o internacional de raíces profundas es resuelto por medios no violentos y de forma relativamente estable, a través, primero, del análisis e identificación de las causas subyacentes al conflicto, y, consiguientemente, del establecimiento de las condiciones estructurales en las que las necesidades e intereses de todas las partes enfrentadas puedan ser satisfechas simultáneamente.',
+    },
+    {
+      termino: 'Violencia',
+      significado:
+        'la violencia es la cualidad de violento o la acción y efecto de violentar o violentarse. Lo violento, por su parte, es aquello que está fuera de su natural estado, situación o modo; que se ejecuta con fuerza, ímpetu o brusquedad; o que se hace contra el gusto o la voluntad de uno mismo. La violencia, por lo tanto, es un comportamiento deliberado que puede provocar daños físicos o psíquicos al prójimo. Es importante tener en cuenta que, más allá de la agresión física, la violencia puede ser emocional mediante ofensas o amenazas. Por eso la violencia puede causar tanto secuelas físicas como psicológicas.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Álvarez-Rodríguez, A. A. (2017). Acuerdos y construcción de paz en Colombia: retos a la gobernabilidad y la cultura de paz. Prospectiva, 24, 13-45. Doi: 10.25100/prts.v%vi%i.5872.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ávila, N. (2015). Los retos en convivencia, administración de justicia y seguridad rural en el posconflicto. Bogotá D.C: Colombia Editorial (FES).',
+      link: '',
+    },
+    {
+      referencia:
+        'Carrillo, F., Gómez, D. (2020). Mecanismos alternativos de solución en Colombia MASC. Tomo II Colección fortalecimiento institucional y ética. Procuraduría General de la Nación.',
+      link: '',
+    },
+    {
+      referencia:
+        'Fernández, O. (2006). Una aproximación a la cultura de paz en la escuela. Revista Scielo.',
+      link: '',
+    },
+    {
+      referencia: 'King Center, The. (2014). The King Philosophy.',
+      link: '',
+    },
+    {
+      referencia:
+        'Magallón, C. (2016). La paz en Colombia: decepción, controversia y esperanza. Cultura de Paz, Año 22 (70) P. 4 - 10 • ISSN 2308-2771.',
+      link: '',
+    },
+    {
+      referencia:
+        'Organización de las Naciones Unidas (ONU). 2015. Objetivos de desarrollo sostenible. 17 objetivos para transformar nuestro mundo.',
+      link: '',
+    },
+    {
+      referencia:
+        'Organización de las Naciones Unidas para la Educación, Ciencia y la Cultura - UNESCO (2015). Replantear la Educación ¿hacia un bien común mundial?',
+      link: '',
+    },
+    {
+      referencia:
+        'Organización de las Naciones Unidas. (1998). Resolución 52/13, Cultura de Paz. Nueva York, Nueva York, EU: Asamblea General, ONU.',
+      link: '',
+    },
+    {
+      referencia:
+        'Rojas L. Díaz B. Arapé E. Romero S. Rojas A. y Rojas R. (2006). Comunicación, conflictos y cultura de paz: percepción en grupos de estudiantes universitarios. Revista Redalyc.',
+      link: '',
+    },
+    {
+      referencia:
+        'Seidman, J., (2013). Lecciones del proceso de paz Sudafricano. Revista de información y de debate Pueblos.',
+      link: 'https://rebelion.org/lecciones-del-proceso-de-paz-sudafricano/',
+    },
+    {
+      referencia:
+        'Villarraga, A. (2015). Biblioteca de la Paz. Los procesos de paz en Colombia, 1982-2014 (Documento resumen). Fundación Cultura Democrática. Gente Nueva Editorial.',
       link: '',
     },
   ],
@@ -146,14 +249,14 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
+          nombre: 'Milady Tatiana Villamil Castellanos',
           cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Olga Constanza Bermúdez Jaimes',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Dirección General',
         },
       ],
     },
@@ -161,9 +264,15 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Mónica Suárez Aya',
+          cargo: 'Experta temática',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo: 'Evaluadora Instruccional',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -171,19 +280,16 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Yerson Fabian Zarate Saavedra',
           cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Jhon Jairo Urueta Alvarez',
           cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
-        },
-        {
-          nombre: 'Nombre responsable',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -191,14 +297,28 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Aixa Natalia Sendoya Fernández',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Jaime Hernán Tejada Llano',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Raúl Mosquera Serrano',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
