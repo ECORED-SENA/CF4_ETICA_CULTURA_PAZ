@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Ser agente de cambio',
     Description:
-      'La cultura de la paz consiste en una serie de valores, actitudes y comportamientos que rechazan la violencia y previenen los conflictos, teniendo en cuenta los Derechos Humanos. Este proceso es lento ya que significa un cambio de mentalidad individual y colectiva. Dos aspectos claves en el fortalecimiento de una cultura de paz son, por un lado, asumir el conflicto como parte de las dinámicas de las relaciones personales y por otra, el aprendizaje y aplicación de estrategias de transformación de los conflictos.',
+      'La cultura de la paz consiste en una serie de valores, actitudes y comportamientos que rechazan la violencia y previenen los conflictos, teniendo en cuenta los Derechos Humanos. Este proceso es lento, ya que significa un cambio de mentalidad individual y colectiva. Dos aspectos claves en el fortalecimiento de una cultura de paz son, por un lado, asumir el conflicto como parte de las dinámicas de las relaciones personales y, por otro, el aprendizaje y aplicación de estrategias de transformación de los conflictos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -155,12 +155,12 @@ export default {
     {
       termino: 'Conflicto armado',
       significado:
-        'el concepto de conflicto armado es muy complejo, ya que hace referencia a todos aquellos enfrentamientos en los que están involucradas las armas y su uso. Los conflictos armados son un fenómeno histórico que existe desde el comienzo de la historia y pueden darse entre distintos pueblos así como también entre el mismo pueblo, es decir, a nivel interno. De cualquier manera, el conflicto armado es muy doloroso ya que produce muertes y mutilaciones de todo tipo, abusos, asesinatos y violencia sin fin que muchas es difícil de controlar, revertir o superar.',
+        'el concepto de conflicto armado es muy complejo, ya que hace referencia a todos aquellos enfrentamientos en los que están involucradas las armas y su uso. Los conflictos armados son un fenómeno histórico que existe desde el comienzo de la historia y pueden darse entre distintos pueblos, así como también entre el mismo pueblo, es decir, a nivel interno. De cualquier manera, el conflicto armado es muy doloroso, ya que produce muertes y mutilaciones de todo tipo, abusos, asesinatos y violencia sin fin que muchas es difícil de controlar, revertir o superar.',
     },
     {
       termino: 'Cultura de Paz',
       significado:
-        'según la definición de las Naciones Unidas (1998, Resolución A/52/13), la cultura de paz consiste en una serie de valores, actitudes y comportamientos que rechazan la violencia y previenen los conflictos tratando de atacar sus causas para solucionar los problemas mediante el diálogo y la negociación entre las personas, los grupos y las naciones.',
+        'según la definición de las Naciones Unidas (1998, Resolución A/52/13), la cultura de paz consiste en una serie de valores, actitudes y comportamientos que rechazan la violencia y previenen los conflictos, tratando de atacar sus causas para solucionar los problemas mediante el diálogo y la negociación entre las personas, los grupos y las naciones.',
     },
     {
       termino: 'Guerrilla',
