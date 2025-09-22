@@ -21,7 +21,7 @@
       h2 1.1 Contexto social y político
     .row.align-items-center.mb-5
       .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
-        p El conflicto armado en Colombia tiene unas raíces muy profundas, que van más allá del surgimiento de las actuales guerrillas en los años 60. Proviene de la violencia que caracterizó las relaciones entre liberales y conservadores desde el siglo XIX hasta la época del Frente Nacional (1958-1978). Así, la política al servicio de los intereses de la élite, la exclusión social y la falta de opciones democráticas de oposición explican el surgimiento de los distintos grupos guerrilleros de los años 60 y 70, entre ellos, las Fuerzas Armadas Revolucionarias de Colombia (FARC) y el Ejército de Liberación Nacional (ELN), ambos nacidos en 1964 y que en la actualidad cuentan con unos 10.000 y 3.000 efectivos, respectivamente.
+        p El conflicto armado en Colombia tiene unas raíces muy profundas, que van más allá del surgimiento de las actuales guerrillas en los años 60. Proviene de la violencia que caracterizó las relaciones entre liberales y conservadores desde el siglo XIX hasta la época del Frente Nacional (1958-1978). Así, la política al servicio de los intereses de la élite política y económica del país, la exclusión social y la falta de opciones democráticas de oposición explican el surgimiento de los distintos grupos guerrilleros de los años 60 y 70, entre ellos, las Fuerzas Armadas Revolucionarias de Colombia (FARC) y el Ejército de Liberación Nacional (ELN), ambos nacidos en 1964 y que en la actualidad cuentan con unos 10.000 y 3.000 efectivos, respectivamente.
         .row.mb-3
           .col-12
             .p-4.bg-c5
